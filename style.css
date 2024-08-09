@@ -9,11 +9,8 @@ body {
 
 #projects {
   background-color: #89bea2;
-  padding-top: 8rem;
 }
-#about {
-  padding-top: 5rem;
-}
+
 /* edit u img */
 /* .edimg {
   width: 415px;
@@ -28,5 +25,5 @@ body {
 
 /* perpindahan navbar per-section, hilangkan garis,  */
 section {
-  padding-top: 12rem;
+  padding-top: 8rem;
 }
