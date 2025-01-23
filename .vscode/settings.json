@@ -1,9 +1,9 @@
 {
-    "window.zoomLevel": 1,
-    "editor.fontSize": 13,
-    "workbench.colorTheme":"Noctis Obscuro",
-    "workbench.iconTheme": "vscode-icons",
-    "emmet.includeLanguages": {
-        "javascript": "html"
-    }
+  "window.zoomLevel": 1,
+  "editor.fontSize": 13,
+  "workbench.colorTheme": "Noctis Sereno",
+  "workbench.iconTheme": "vscode-icons",
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  }
 }
